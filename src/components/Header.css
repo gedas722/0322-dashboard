@@ -1,0 +1,29 @@
+.Header {
+  width: 100vw;
+  height: 60px;
+  background-color: rgb(64, 137, 197);
+  color: white;
+  font-weight: bolder;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  display: flex;
+  justify-content: space-between;
+}
+h3 {
+  margin-top: auto;
+  margin-bottom: auto;
+
+  vertical-align: middle;
+}
+.NotificationsIcon {
+  margin-top: auto;
+  margin-bottom: auto;
+  vertical-align: middle;
+  padding-right: 20px;
+}
+.MenuIcon {
+  margin-top: auto;
+  margin-bottom: auto;
+  vertical-align: middle;
+  padding-left: 20px;
+  visibility: hidden;
+}
